@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>shecodes</title>
+    <style>
+    
+    .weather-for h1{
+        color: blue;
+        font-size: 34px;
+        line-height: 48px;
+        margin: 0;
+        font-weight: bold;
+    }
+
+    .weather-for h1{
+        text-align: center;
+        font-family: monospace;
+    }
+    
+    h1{
+        display: block;
+        margin-block-start: 0,67em;
+        margin-block-end: 0,67em;
+        margin-inline-start: 0;
+        margin-inline-end: 0;
+    }
+
+    .weather-for h2{
+         font-size: 34px;
+        line-height: 48px;
+        margin: 0;
+        font-weight: 400px;
+    }
+
+    .weather-for h2{
+        text-align: center;
+        font-family:Arial, Helvetica, sans-serif ;
+    }
+
+    h2{
+        font-weight: bold;
+        font-size: 34px;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 48px;
+    }
+
+    ul{
+        list-style: none;
+        text-align: center;
+        padding: 0;
+    }
+
+    li{
+        display: inline;
+        text-align: center;
+        padding: 10px 0;
+        margin: 0 auto;
+        border-radius: 10px;
+        max-width: 400px;
+        transition: all 200ms ease-in-out
+    }
+
+    ul li:hover {
+        background: #fffbef;   
+        cursor: pointer;
+    }
+
+    h3{
+        text-align: center;
+        font-size: 21px;
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+
+    .weather-for p{
+        font-size: 18px;
+        opacity: 0.7;
+        text-align: center;
+        font-family: monospace;
+    }
+
+    p{
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+
+    button{
+        display: block;
+        margin: 25px auto;
+        border: 1px rgba(0, 0, 255, 0.651);
+        background: rgba(0, 0, 255, 0.651);
+        color: white;
+        font-size: 17px;
+        line-height: 24px;
+        padding: 16px 24px;
+        border-radius: 30px;
+        transition: all 200ms ease-in-out;
+        box-shadow: rgba(42, 44, 105, 0.07) 0px 8px 8px 0px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background: white;
+        color: #1a64d6;
+        cursor: pointer;
+    }
+
+    .signature {
+        display: block;
+        opacity: 0.7;
+        text-align: center;
+        font-family: monospace;
+        font-size: 18px;
+    }
+    </style>
+
+  </head>
+
+  <body>
+<div class="weather-for">
+  <h1>
+      ⛅
+      <br />
+      Currently 21<span>&#176;</span> in Tokyo
+    </h1>
+    <h2>
+      13<span>&#176;</span> / 
+      <strong>23</strong><span>&#176</span>
+    </h2>
+    <br>
+    <ul>
+        <li>
+            <h3>🌧️Tomorrow</h3>
+            <p>10<span>&#176;</span>/
+        <strong>22</strong><span>&#176</span></p>
+        <br>
+        </li>
+        <li>
+            <h3>⛅Saturday</h3>
+            <p>15<span>&#176;</span>/ <strong>17</strong><span>&#176</span></p>
+            <br>
+        </li>
+        <li>
+            <h3>☀️Sunday</h3>
+            <p>25<span>&#176;/ <strong>28</strong><span>&#176;</span></p>
+            <br>
+        </li>
+    </ul>
+    <button>Change City</button>
+    <p class="signature">Coded by Sade</p>
+  </body>
+</html>
