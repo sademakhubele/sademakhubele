@@ -25,7 +25,7 @@ I enjoy turning ideas and designs into functional digital experiences and solvin
 
 **Frontend**
 
-React · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS
+React · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS ·React Native
 
 **Development**
 
