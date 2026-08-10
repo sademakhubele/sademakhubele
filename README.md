@@ -85,7 +85,7 @@ A mobile application currently in development, where I'm building and exploring 
 
 **Built with:** React Native, TypeScript
 
-[View Repository](https://github.com/sademakhubele/GOLDPIECE)
+[View Repository](https://github.com/sademakhubele/goldpiece-b2b)
 
 ---
 
