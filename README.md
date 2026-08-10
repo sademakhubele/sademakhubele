@@ -99,7 +99,7 @@ My work focuses on balancing **business requirements, usability, visual design a
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Developing
 
 * React Native
 * Testing
