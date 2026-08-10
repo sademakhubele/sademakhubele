@@ -1,6 +1,6 @@
 ## Hi, I'm Sadè 👋
 
-### Front-End Developer | React | JavaScript | TypeScript
+### Front-End Developer | React | JavaScript | TypeScript | Tailwind CSS
 
 I'm a Front-End Developer and Founder of **Zazi Web Solutions**, building responsive websites and web applications with a focus on user experience, clean interfaces and maintainable code.
 
