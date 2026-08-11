@@ -10,7 +10,7 @@ I enjoy turning ideas and designs into functional digital experiences and solvin
 
 ## 👩🏽‍💻 About Me
 
-* 💻 Front-End Developer focused on React, JavaScript and TypeScript
+* 💻 Front-End Developer focused on React, JavaScript, TypeScript and Tailwind CSS
 * 🚀 Founder of Zazi Web Solutions
 * 🎨 Experienced in translating designs and Figma layouts into responsive interfaces
 * 📱 Focused on responsive and mobile-first development
